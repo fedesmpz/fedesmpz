@@ -21,3 +21,5 @@ Otros: Firebase, Axios, Redux.
 📚 Además, me apasiona seguir estudiando y mejorando mis habilidades en infraestructura para enfrentar nuevos desafíos y mantenerme al día con las últimas tendencias.
 
 ¡Estoy emocionado por lo que vendrá y ansioso por seguir aprendiendo y creciendo en el apasionante campo de la tecnología! Siéntete libre de explorar mis proyectos y no dudes en contactarme para cualquier colaboración o consulta. ¡Gracias por visitar mi perfil! 😊
+
+Y si queres ponerte en contacto conmigo podés hacerlo a FEDE.MPZ@GMAIL.COM
