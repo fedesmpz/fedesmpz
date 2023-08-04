@@ -22,4 +22,4 @@ Otros: Firebase, Axios, Redux.
 
 ¡Estoy emocionado por lo que vendrá y ansioso por seguir aprendiendo y creciendo en el apasionante campo de la tecnología! Siéntete libre de explorar mis proyectos y no dudes en contactarme para cualquier colaboración o consulta. ¡Gracias por visitar mi perfil! 😊
 
-Y si queres ponerte en contacto conmigo podés hacerlo a FEDE.MPZ@GMAIL.COM
+Y si queres ponerte en contacto conmigo podés hacerlo a FEDERICO.PEZZUTTI@EMEPEZETA.COM
